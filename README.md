@@ -1,83 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
+# 🚀 Gleb Teperev
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gleb Teperev - Student README</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      line-height: 1.6;
-      color: #333;
-      max-width: 800px;
-      margin: 0 auto;
-    }
+## 🌟 Summary
 
-    h1, h2 {
-      color: #0366d6;
-    }
+Passionate and innovative software artisan, committed to crafting clean, scalable, and delightful code. A tech explorer with a knack for turning ideas into impactful software solutions. Keen on continuous learning and staying on the cutting edge of technology.
 
-    hr {
-      margin-top: 20px;
-      margin-bottom: 20px;
-      border: 0;
-      border-top: 1px solid #ddd;
-    }
+## 💻 Skills
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+- **Languages:** Python, JavaScript (Node.js), Java
+- **Web Technologies:** React, Flask, Express.js
+- **Database:** MongoDB, MySQL
+- **DevOps:** Docker, Kubernetes, CI/CD
+- **Tools:** Git, VS Code, Postman
+- **Methodologies:** Agile, Scrum
+- **Problem Solving**
+- **Team Collaboration**
 
-    li {
-      margin-bottom: 5px;
-    }
-  </style>
-</head>
+## 🎓 Education
 
-<body>
+**Bachelor of Science in Computer Science**  
+[University Name], [City, State]  
+[Graduation Date]
 
-  <h1>Gleb Teperev</h1>
+## 👨‍💻 Work Experience
 
-  <p>
-    <a href="https://github.com/glebtepe">
-      <img src="https://github.com/favicon.ico" alt="GitHub Logo">
-    </a>
-    <a href="https://www.linkedin.com/in/glebtepe">
-      <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn Logo">
-    </a>
-    <a href="https://twitter.com/glebtepe">
-      <img src="https://twitter.com/favicon.ico" alt="Twitter Logo">
-    </a>
-    <a href="https://www.glebtepeportfolio.com">
-      <img src="link-to-your-portfolio-icon" alt="Portfolio Logo">
-    </a>
-  </p>
+### Software Alchemist | [Tech Wizardry Co.], [Magical City] | [Start Date] - [End Date]
 
-  <hr>
+- Conjured up elegant and efficient solutions for [describe projects or tasks].
+- Collaborated with a fellowship of skilled developers to bring enchanted software to life.
+- Ensured spellbinding code quality through thorough code reviews.
 
-  <h2>👨‍🎓 Student Overview</h2>
+### Apprentice of the Code Realm | [Digital Enchantments Ltd.], [Mystical Valley] | [Start Date] - [End Date]
 
-  <p>
-    Eager and motivated student with a passion for technology and learning. Currently pursuing studies in Computer Science and Business Technology at IE University. Excited to explore new opportunities and contribute to innovative projects.
-  </p>
+- Assisted in the conjuring of [describe tasks or projects].
+- Worked in harmony with the team to troubleshoot and debug enchantment-related issues.
+- Contributed to the enhancement of the magical codebook.
 
-  <hr>
+## 🚧 Projects
 
-  <h2>📚 Education</h2>
+### [Project Enigma]
 
-  <p>
-    <strong>[Degree Pursued] in [Field/Area of Study]</strong><br>
-    [University/College Name], [Location] | Expected Graduation: [Month Year]
-  </p>
+- 🔍 Description: Unravel the mysteries of [brief description of the project].
+- 🛠️ Technologies: React, Node.js, MongoDB
+- 🧙‍♂️ [GitHub Repository](Link to the GitHub repository)
+- 🌐 [Live Demo](Link to the live demo if applicable)
 
-  <hr>
+### [Quest for the Holy API]
 
-  <!-- ... Add sections for Projects, Skills, Achievements, Certifications, Interests, and Contact ... -->
+- 🔍 Description: Embark on a quest to discover the power of [brief description of the project].
+- 🛠️ Technologies: Express.js, MySQL
+- 🧙‍♂️ [GitHub Repository](Link to the GitHub repository)
+- 🌐 [Live Demo](Link to the live demo if applicable)
 
-</body>
+## 🏆 Certifications
 
-</html>
+- 📜 [Certification in Advanced Sorcery] | Magic Guild | [Date]
+
+## 🌈 Awards and Achievements
+
+- 🏅 [Code Conjurer of the Year] | [Year]
+
+## 🌐 Languages
+
+- English (Fluent)
+- Elvish (Basic)
+
+## 🎨 Interests
+
+- Crafting digital spells
+- Exploring the realms of augmented reality
+- Potion-making (in the form of coffee)
+
+## 📬 Contact Information
+
+- [GitHub](Your GitHub profile link)
+- [LinkedIn](Your LinkedIn profile link)
+- Email: [Your email address]
+- [Portfolio](Your personal website or portfolio link)
 
 
