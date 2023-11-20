@@ -1,4 +1,4 @@
-# 🚀 Gleb Teperev
+# 🚀 Welcome to Gleb's repository 
 
 ## 🌟 Summary
 
@@ -53,7 +53,7 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 
 ## 🏆 Certifications
 
-- 📜 [Certification in Advanced Sorcery] | Magic Guild | [Date]
+- 📜 Certification in Application Development | Cepi-Base | 2023
 
 ## 🌈 Awards and Achievements
 
@@ -61,14 +61,12 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 
 ## 🌐 Languages
 
+- Ukrainian (Native)
+- Rushian (Native)
 - English (Fluent)
-- Elvish (Basic)
+- Spanish (Professional)
 
-## 🎨 Interests
 
-- Crafting digital spells
-- Exploring the realms of augmented reality
-- Potion-making (in the form of coffee)
 
 ## 📬 Contact Information
 
