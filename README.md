@@ -7,7 +7,7 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 ## 💻 Skills
 
 - **Languages:** Python, JavaScript (Node.js), Java
-- **Database:** MySQL
+- **Database:** MySQL, DBeaver
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Tools:** Git, VS Code, Anaconda
 - **Problem Solving**
