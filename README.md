@@ -16,7 +16,7 @@ Innovative software enthusiast with a passion for crafting elegant and scalable 
 ## 🎓 Education
 
 - **Bachelor of Business Administration**  
-EU Business School, Barcelona, Cataluña 
+EU Business School, Barcelona, Cataluña, 
 2021 
 - **Bachelor of Business Management and International Business (HONS)**  
 Derby University, Derby, the UK,  
