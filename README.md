@@ -60,7 +60,7 @@
   <h2>👨‍🎓 Student Overview</h2>
 
   <p>
-    Eager and motivated student with a passion for technology and learning. Currently pursuing studies in [Your Field/Area of Study] at [Your University/College]. Excited to explore new opportunities and contribute to innovative projects.
+    Eager and motivated student with a passion for technology and learning. Currently pursuing studies in Computer Science and Business Technology at IE University. Excited to explore new opportunities and contribute to innovative projects.
   </p>
 
   <hr>
