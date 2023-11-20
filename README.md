@@ -6,10 +6,21 @@ Innovative software enthusiast with a passion for crafting elegant and scalable 
 
 ## 💻 Skills
 
-- **Languages:** Python, JavaScript (Node.js), Java
-- **Database:** MySQL, DBeaver
-- **DevOps:** Docker, Kubernetes, CI/CD
-- **Tools:** Git, VS Code, Anaconda
+- **Languages:**
+  - Python <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  - JavaScript (Node.js) <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  - Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+- **Database:**
+  - MySQL <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+  - DBeaver <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+- **DevOps:**
+  - Docker <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  - Kubernetes <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+  - CI/CD <img src="https://img.icons8.com/color/48/000000/continuous-delivery.png"/>
+- **Tools:**
+  - Git <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  - VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  - Anaconda <img src="https://img.icons8.com/color/48/000000/spyder-ide.png"/>
 - **Problem Solving**
 - **Team Collaboration**
 
