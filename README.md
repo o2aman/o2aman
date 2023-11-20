@@ -7,22 +7,23 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 ## 💻 Skills
 
 - **Languages:** Python, JavaScript (Node.js), Java
-- **Web Technologies:** React, Flask, Express.js
-- **Database:** MongoDB, MySQL
+- **Database:** MySQL
 - **DevOps:** Docker, Kubernetes, CI/CD
-- **Tools:** Git, VS Code, Postman
-- **Methodologies:** Agile, Scrum
+- **Tools:** Git, VS Code, Anaconda
 - **Problem Solving**
 - **Team Collaboration**
 
 ## 🎓 Education
 
 **Bachelor of Business Administration**  
-[EU Business School], [Barcelona, Cataluña]  
-[2022 ]
-**Bachelor of Science in Computer Science**  
-[University Name], [City, State]  
-[Graduation Date]
+EU Business School, Barcelona, Cataluña 
+2022 
+**Bachelor of Business Management and International Business (HONS)**  
+Derby University, Derby, the UK  
+2022
+**Master in Computer Science and Business Technology**  
+Derby University, Derby, the UK  
+2024
 
 ## 👨‍💻 Work Experience
 
@@ -38,21 +39,6 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 - Worked in harmony with the team to troubleshoot and debug enchantment-related issues.
 - Contributed to the enhancement of the magical codebook.
 
-## 🚧 Projects
-
-### [Project Enigma]
-
-- 🔍 Description: Unravel the mysteries of [brief description of the project].
-- 🛠️ Technologies: React, Node.js, MongoDB
-- 🧙‍♂️ [GitHub Repository](Link to the GitHub repository)
-- 🌐 [Live Demo](Link to the live demo if applicable)
-
-### [Quest for the Holy API]
-
-- 🔍 Description: Embark on a quest to discover the power of [brief description of the project].
-- 🛠️ Technologies: Express.js, MySQL
-- 🧙‍♂️ [GitHub Repository](Link to the GitHub repository)
-- 🌐 [Live Demo](Link to the live demo if applicable)
 
 ## 🏆 Certifications
 
@@ -69,9 +55,7 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 
 ## 📬 Contact Information
 
-- [GitHub](Your GitHub profile link)
-- [LinkedIn](Your LinkedIn profile link)
-- Email: [Your email address]
-- [Portfolio](Your personal website or portfolio link)
+- [LinkedIn] https://www.linkedin.com/in/gleb-teperev-2f3/
+
 
 
