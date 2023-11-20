@@ -55,7 +55,13 @@ Derby University, Derby, the UK,
 
 - 📜 Certification in Application Development | Cepi-Base | 2023
 
+## 🚀 Interests
 
+- Exploring emerging technologies
+- Open-source contributions
+- Coding challenges and competitions
+- Bitcoin and blockchain innovation | Web3
+  
 ## 🌐 Languages
 
 - Ukrainian (Native)
@@ -66,7 +72,7 @@ Derby University, Derby, the UK,
 
 ## 📬 Contact Information
 
-- [LinkedIn] https://www.linkedin.com/in/gleb-teperev-2f3/
+- [LinkedIn](https://www.linkedin.com/in/gleb-teperev-2f3/)
 
 
 
