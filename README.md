@@ -22,7 +22,7 @@ EU Business School, Barcelona, Cataluña,
 Derby University, Derby, the UK,  
 2022
 - **Master in Computer Science and Business Technology**  
-Derby University, Derby, the UK,  
+IE University, Madrid, Spain,  
 2024
 
 ## 👨‍💻 Work Experience
