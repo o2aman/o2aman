@@ -2,7 +2,7 @@
 
 ## 🌟 Summary
 
-Passionate and innovative software artisan, committed to crafting clean, scalable, and delightful code. A tech explorer with a knack for turning ideas into impactful software solutions. Keen on continuous learning and staying on the cutting edge of technology.
+Innovative software enthusiast with a passion for crafting elegant and scalable solutions. From navigating the realms of business development to delving into the intricacies of digital marketing, I bring a diverse skill set shaped by hands-on experience. A recent master's graduate in Computer Science and Business Technology, I'm driven by continuous learning and thrive on staying at the forefront of technology. Intrigued by the transformative potential of blockchain and Bitcoin, I am committed to exploring and contributing to these cutting-edge fields.
 
 ## 💻 Skills
 
