@@ -53,6 +53,7 @@ Derby University, Derby, the UK,
 
 ## 🏆 Certifications
 
+- 📊 Dinku Trading | Blockchain, Cryptocurrencies & Graph Analysis | 2021
 - 📜 Certification in Application Development | Cepi-Base | 2023
 
 ## 🚀 Interests
