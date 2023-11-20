@@ -16,28 +16,39 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 ## 🎓 Education
 
 **Bachelor of Business Administration**  
-EU Business School, Barcelona, Cataluña 
-2022 
+EU Business School, Barcelona, Cataluña, 
+2021 
 **Bachelor of Business Management and International Business (HONS)**  
-Derby University, Derby, the UK  
+Derby University, Derby, the UK,  
 2022
 **Master in Computer Science and Business Technology**  
-Derby University, Derby, the UK  
+Derby University, Derby, the UK,  
 2024
 
 ## 👨‍💻 Work Experience
 
-### Software Alchemist | [Tech Wizardry Co.], [Magical City] | [Start Date] - [End Date]
+### Business Development Representative | Omnicore, Kyiv | Jan 2021 - Dec 2021
 
-- Conjured up elegant and efficient solutions for [describe projects or tasks].
-- Collaborated with a fellowship of skilled developers to bring enchanted software to life.
-- Ensured spellbinding code quality through thorough code reviews.
+- Conduct positive interactions with existing customers
+- Grow pipeline by executing on market-qualified leads and prospecting within install base of accounts
+- Generate qualified opportunities through outbound calling
 
-### Apprentice of the Code Realm | [Digital Enchantments Ltd.], [Mystical Valley] | [Start Date] - [End Date]
+### Digital Marketing Intern | XIRCLS, Collaborative Marketing Naetwork | Dec 2021 - May 2022
 
-- Assisted in the conjuring of [describe tasks or projects].
-- Worked in harmony with the team to troubleshoot and debug enchantment-related issues.
-- Contributed to the enhancement of the magical codebook.
+- Coordinate with content teams to generate & disseminate content for diverse buyer personas
+- SEO & SEM activities
+- Drive traffic to website / landing pages
+- Create & track email marketing campaigns
+
+### Digital Marketing Specialist | 2Ortho, Kyiv | May 2022 - Dec 2022
+
+- Research advertising trends
+- Research competitors’ pricing and products
+- Decide on appropriate placement of ads
+- Determine what content will reach customers
+- Develop projects to create content
+- Publish digital marketing content online
+- Implement email marketing campaigns
 
 
 ## 🏆 Certifications
