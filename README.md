@@ -17,6 +17,9 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 
 ## 🎓 Education
 
+**Bachelor of Business Administration**  
+[EU Business School], [Barcelona, Cataluña]  
+[2022 ]
 **Bachelor of Science in Computer Science**  
 [University Name], [City, State]  
 [Graduation Date]
@@ -55,9 +58,6 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 
 - 📜 Certification in Application Development | Cepi-Base | 2023
 
-## 🌈 Awards and Achievements
-
-- 🏅 [Code Conjurer of the Year] | [Year]
 
 ## 🌐 Languages
 
@@ -65,7 +65,6 @@ Passionate and innovative software artisan, committed to crafting clean, scalabl
 - Rushian (Native)
 - English (Fluent)
 - Spanish (Professional)
-
 
 
 ## 📬 Contact Information
